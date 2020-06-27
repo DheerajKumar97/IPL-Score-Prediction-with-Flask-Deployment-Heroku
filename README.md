@@ -5,6 +5,11 @@ Heroku App Link : https://iplscoreprediction.herokuapp.com/
 
 # Table Of Contents
 - [Project Goal](#Project-Goal)
+- [Project Motivation](#Project-Motivation)
+- [Requirements Installation](#Requirements-Installation)
+- [File Sections](#File-Sections)
+- [Technologies Used](#Technologies-Used)
+- [Project Goal](#Project-Goal)
 
 # Project Goal
 
