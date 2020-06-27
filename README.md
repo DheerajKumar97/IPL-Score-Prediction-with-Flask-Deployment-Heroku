@@ -9,7 +9,7 @@ Heroku App Link : https://iplscoreprediction.herokuapp.com/
 - [Requirements Installation](#Requirements-Installation)
 - [File Sections](#File-Sections)
 - [Technologies Used](#Technologies-Used)
-- [Project Goal](#Project-Goal)
+- [License](#License)
 
 # Project Goal
 
