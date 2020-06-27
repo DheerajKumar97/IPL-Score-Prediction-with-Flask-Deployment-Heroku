@@ -4,7 +4,7 @@
 Heroku App Link : https://iplscoreprediction.herokuapp.com/
 
 # Table Of Contents
-- [Getting started with Markdown](#Project Goal)
+- [Project Goal](#Project-Goal)
 
 # Project Goal
 
