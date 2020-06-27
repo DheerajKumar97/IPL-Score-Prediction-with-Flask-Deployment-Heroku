@@ -3,6 +3,9 @@
 # IPL-Score-Prediction-with-Flask-Deployment
 Heroku App Link : https://iplscoreprediction.herokuapp.com/
 
+# Table Of Contents
+- [Project Goal](#Project Goal)
+
 # Project Goal
 
  **This Project is to designed to predict the Score of Indian Premier League using Regression Analysis with PYTHON,FLASK,HTML,SQL**
