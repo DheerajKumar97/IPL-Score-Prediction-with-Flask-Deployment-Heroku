@@ -53,7 +53,7 @@ Heroku App Link : https://iplscoreprediction.herokuapp.com/
 
 # License
 
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/P4.jpg)
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/MIT%20license.jpg)
 <br>
 CopyRight 2020 DHEERAJ KUMAR
 
