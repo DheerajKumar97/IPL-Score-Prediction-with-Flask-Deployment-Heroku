@@ -257,9 +257,9 @@ LR_r2_score
 # In[ ]:
 
 
-# Creating a pickle file for the classifier
-# filename = 'first-innings-score-lr-model.pkl'
-# pickle.dump(regressor, open(filename, 'wb'))
+Creating a pickle file for the classifier
+filename = 'lr-model.pkl'
+pickle.dump(regressor, open(filename, 'wb'))
 
 
 # In[41]:
