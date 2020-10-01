@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/ipl.jpeg)
 <br>
-# IPL-Score-Prediction-with-Flask-Deployment
+# IPL-Score-Prediction-with-Heroku-Deployment
 Heroku App Link : https://iplscoreprediction.herokuapp.com/
 
 # Deployment Demo
