@@ -6,7 +6,7 @@ Heroku App Link : https://iplscoreprediction.herokuapp.com/
 # Deployment Demo
 
 ![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/IPL%20Predictor%20Output.gif)
-<br>
+<br> <br>
 # Table Of Contents
 - [Project Goal](#Project-Goal)
 - [Project Motivation](#Project-Motivation)
